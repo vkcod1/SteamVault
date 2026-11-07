@@ -1,4 +1,4 @@
-# GameNative
+# SteamVault
 
 
 SteamVault allows you to play games you own on Steam directly on Android devices.
