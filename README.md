@@ -1,7 +1,7 @@
 # GameNative
 
 
-GameNative allows you to play games you own on Steam directly on Android devices.
+SteamVault allows you to play games you own on Steam directly on Android devices.
 
 [Playing Stray on Poco F6](https://github.com/user-attachments/assets/1870fd14-7de9-4054-ba92-d3a5c73686b5)
 
@@ -9,7 +9,7 @@ This is a fork of [Pluvia](https://github.com/oxters168/Pluvia), a Steam client 
 
 ## How to Use
 
-(Note that GameNative is still in its early stages, and all games may not work, or may require tweaking to get working well)
+(Note that Steamvault is still in its early stages, and all games may not work, or may require tweaking to get working well)
 1. Download the latest release [here](https://github.com/utkarshdalal/GameNative/releases/download/v0.6.1/gamenative-v0.6.1.apk)
 2. Install the APK on your Android device
 3. Login to your Steam account
@@ -19,7 +19,7 @@ This is a fork of [Pluvia](https://github.com/oxters168/Pluvia), a Steam client 
 ## Support
 To report issues or receive support, join the [Discord server](https://discord.gg/2hKv4VfZfE)
 
-You can support GameNative on Ko-fi at https://ko-fi.com/gamenative
+You can support SteamVault on Ko-fi at https://ko-fi.com/SteamVault
 
 ## Building
 ### IF YOU JUST WANT TO USE THE APP, PLEASE SEE THE HOW TO USE SECTION ABOVE. THIS IS ONLY NEEDED IF YOU WANT TO CONTRIBUTE FOR DEVELOPMENT.
